@@ -1,0 +1,12 @@
+.DS_Store
+Thumbs.db
+*.out
+*.swp
+*.swo
+*.swn
+*.pdf
+*.txt
+*.a
+*.o
+client
+server
